@@ -1,9 +1,10 @@
 ---
 layout: post
 title: "First Post!"
-date: 2019-08-21 11:35:20 +0600
-description:# Add post description (optional)
+date: 2019-08-21 11:35:20 +0300
+description: # Add post description (optional)
 img: flippin-hurrah-696x522.jpg
+
 ---
 Hello!
 
