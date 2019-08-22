@@ -4,7 +4,7 @@ All thoughts are my own and not affiliated with the University of Texas at Austi
 
 Theme forked from [artemsheludko](https://github.com/artemsheludko/flexible-jekyll) .
 
-### License
+### Theme License
 
 GNU General Public License v3.0
 
